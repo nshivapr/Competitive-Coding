@@ -2,7 +2,7 @@
 Time Complexity: O(log n) using Binary search
 Space Complexity: O(1)
 Algorithm: if the difference between the element and the index of low and mid are same, then there is not missing number
-in left half of array.
+in left half of array
 GFG Question: https://www.geeksforgeeks.org/find-the-missing-number-in-a-sorted-array/
 */
 
