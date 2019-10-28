@@ -1,3 +1,9 @@
+/* Design Min Heap
+Insertion : HeapifyUp(), bubble up the element - O(log n)
+Peek : getMin : O(1)
+Removal of the min element: HeapifyDown(), bubble down the element - O(log n)
+*/
+
 import java.util.Arrays;
 
 class MinHeap {
